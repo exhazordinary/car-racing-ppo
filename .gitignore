@@ -1,0 +1,10 @@
+# Ignore model checkpoints and logs
+models/
+logs/
+*.pkl
+
+# Python cache
+__pycache__/
+
+# macOS system files
+.DS_Store
