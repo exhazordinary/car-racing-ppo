@@ -66,4 +66,4 @@ pip install -r requirements.txt
 
 ## License
 
-[Add your license here]
+MIT
